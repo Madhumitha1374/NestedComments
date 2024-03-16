@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.comment-container {
+  padding: 10px;
+}
+
+.replies {
+  margin-left: 25px;
+}
+
+.comment {
+  margin-left: 20px;
+}
